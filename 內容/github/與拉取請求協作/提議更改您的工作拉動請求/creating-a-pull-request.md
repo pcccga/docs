@@ -12,7 +12,7 @@ versions:
 topics:
   - Pull requests
 ---
-Anyone with read permissions to a repository can create a pull request, but you must have write permissions to create a branch. If you want to create a new branch for your pull request and don't have write permissions to the repository, you can fork the repository first. For more information, see "[Creating a pull request from a fork](/articles/creating-a-pull-request-from-a-fork)" and "[About forks](/articles/about-forks)."
+對任何訪問權限的人都可以創建拉取請求，但您必須先創建訪問權限。如果您想為您的拉取請求創建一個新的權限並且沒有對存儲庫的訪問權限，您可以先對存儲庫進行訪問進行訪問進行訪問進行訪問進行分叉。有關更多信息，請參閱“ [
 
 You can specify which branch you'd like to merge your changes into when you create your pull request. Pull requests can only be opened between two branches that are different.
 
